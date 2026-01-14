@@ -105,6 +105,14 @@ body {
   transform: scale(1.05);
 }
 
+.control-btn.prev,
+.control-btn.next {
+  font-size: 26px;
+  color: white;
+  font-family: Arial, sans-serif;
+  font-variant-emoji: text;
+}
+
 /* ------------------ PLAYLIST ------------------ */
 .playlist {
   text-align: left;
